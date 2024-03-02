@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://anim200.github.io/anims-portfolio/",
+  "homepage": "https://anim200.github.io/mif-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
