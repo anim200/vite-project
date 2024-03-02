@@ -57,7 +57,7 @@ export default function Hero() {
             Writer Content Creator Influencer
         </motion.div>
         <div className="imageContainer">
-            <img src="assets/hero2.png" />
+            <img src="./hero2.png" />
         </div>
     </div>
   )
