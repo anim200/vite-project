@@ -44,7 +44,7 @@ export default function Hero() {
     <div className="hero">
       <div className="wrapper">
       <motion.div className="textContainer" variants={textVariants} initial="initial" animate="animate">
-            <motion.h2 variants={textVariants}>Miftahul Islam</motion.h2>
+            <motion.h2 variants={textVariants}>Miftahl Islam</motion.h2>
             <motion.h1 variants={textVariants}>Web Developer And UI DESIGNER</motion.h1>
             <motion.div variants={textVariants} className="buttons">
                 <motion.button variants={textVariants}>See the Latest Works</motion.button>
